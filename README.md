@@ -1,2 +1,2 @@
-# TRC20-template-contract
-A TRC-20 template contract.
+# TRC20-template
+A TRC-20 template.
